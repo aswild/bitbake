@@ -1,5 +1,5 @@
 # http://code.activestate.com/recipes/577629-namedtupleabc-abstract-base-class-mix-in-for-named/
-#!/usr/bin/env python
+#!/usr/bin/env python2
 # Copyright (c) 2011 Jan Kaliszewski (zuo). Available under the MIT License.
 
 """

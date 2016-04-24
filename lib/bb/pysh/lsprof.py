@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#! /usr/bin/env python2
 
 import sys
 from _lsprof import Profiler, profiler_entry
